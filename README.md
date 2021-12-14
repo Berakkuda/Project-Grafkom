@@ -1,4 +1,6 @@
 # Project-Grafkom
-Nama Game\n
+Nama Game
+
 Tema : SDGS 15 live on land
+
 Story : 
